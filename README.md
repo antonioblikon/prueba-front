@@ -11,7 +11,7 @@ Esta prueba técnica consiste en desarrollar una aplicación en **React** con **
 4. Mostrar un **loader** mientras los datos están cargándose.
 5. Mostrar un mensaje de **error** en caso de fallo.
 6. Informar si no hay **datos disponibles** por columna
-6. El diseño debe seguir la estructura de dos columnas en pantallas grandes. Al reducir el tamaño de la pantalla, las columnas deben ajustarse para mostrar las facturas una sobre otra (diseño responsivo).
+6. El diseño debe seguir la estructura de dos columnas en pantallas grandes. Al reducir el tamaño de la pantalla, las columnas deben ajustarse una sobre otra (diseño responsivo).
 7. El **header** debe permanecer fijo en la parte superior de la página en todo momento. Cuando el usuario haga scroll para ver las facturas, estas deben desplazarse por debajo del header.
 
 8. (Plus) Realiza un test unitario a tu codigo
@@ -21,5 +21,6 @@ Esta prueba técnica consiste en desarrollar una aplicación en **React** con **
 - Durante la prueba no esta permitido utilizar asistentes de inteligencia artificial.
 - El tiempo total para realizar la prueba es de una hora.
 
-## Imagen
+## Imágenes
 <img src="./public/screen.png" alt="Vista previa de la aplicación" width="600">
+<img src="./public/screen2.png" alt="Vista previa de la aplicación" width="300">
