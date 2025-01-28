@@ -1,0 +1,67 @@
+{
+    "bills": [
+        {
+            "id": 1,
+            "description": "Electricity Bill",
+            "amount": 100,
+            "dueDate": "2025-02-15",
+            "paid": false,
+            "category": "Utilities",
+            "type": 1
+        },
+        {
+            "id": 2,
+            "description": "Water Bill",
+            "amount": 50,
+            "dueDate": "2025-02-10",
+            "paid": true,
+            "category": "Utilities",
+            "type": 0
+        },
+        {
+            "id": 3,
+            "description": "Internet Bill",
+            "amount": 75,
+            "dueDate": "2025-02-20",
+            "paid": false,
+            "category": "Services",
+            "type": 1
+        },
+        {
+            "id": 4,
+            "description": "Rent",
+            "amount": 1200,
+            "dueDate": "2025-02-01",
+            "paid": true,
+            "category": "Housing",
+            "type": 1
+        },
+        {
+            "id": 5,
+            "description": "Car Loan Payment",
+            "amount": 350,
+            "dueDate": "2025-02-18",
+            "paid": false,
+            "category": "Transportation",
+            "type": 0
+        },
+        {
+            "id": 6,
+            "description": "Credit Card Payment",
+            "amount": 500,
+            "dueDate": "2025-02-12",
+            "paid": false,
+            "category": "Debt",
+            "type": 1
+        },
+        {
+            "id": 7,
+            "description": "Gym Membership",
+            "amount": 30,
+            "dueDate": "2025-02-05",
+            "paid": true,
+            "category": "Health",
+            "type": 0
+        }
+    ]
+}
