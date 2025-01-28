@@ -3,7 +3,7 @@
 ## Descripción
 
 Esta prueba técnica consiste en desarrollar una aplicación en **React** con **TypeScript** y **Vite** que permita:
-1. Correr un **json-server** a partir de un json proporcionado.
+1. Correr un **json-server** a partir de un json proporcionado. (./db/data.json)
 2. **Obtener** una lista de facturas desde una API simulada.
 3. **Clasificar** las facturas en dos columnas:
    - **Recibidas (Tipo 0)**.
